@@ -1,0 +1,3 @@
+/home/ucc4/media/disk/_cygdrive_D_NIEVAS_Documents_2020_Ucc_Org_y_Arq_Raspberry_proyectoASM/build/CMakeFiles/rebuild_cache.dir
+/home/ucc4/media/disk/_cygdrive_D_NIEVAS_Documents_2020_Ucc_Org_y_Arq_Raspberry_proyectoASM/build/CMakeFiles/edit_cache.dir
+/home/ucc4/media/disk/_cygdrive_D_NIEVAS_Documents_2020_Ucc_Org_y_Arq_Raspberry_proyectoASM/build/CMakeFiles/proyectoASM.dir
